@@ -8,7 +8,7 @@
 	* [20190206](/players/20190206.md)
 	* [mc520](/players/mc520.md)
 	* [Aertio](/players/Aertio.md)
-	* [Lidrem](/players/Lidrem.md)
+	* [Lidrem](/wiki/players/Lidrem.md)
 	* [kkkqq](/players/kkkqq.md)
 	* [laosun](/players/laosun.md)
 - [国际都市](Guild.md)
