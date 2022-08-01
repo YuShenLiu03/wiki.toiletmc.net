@@ -23,7 +23,6 @@
 
 ### 领导人
 
----
 [nenefox](/players/nenefox)(创始人)
 
 [20190206](/players/20190206.md)(第二任领导人)
