@@ -4,6 +4,19 @@
 *此处按照公会区分*
 
 - [苏维埃社会主义联盟共和国](Guild.md) *(下文统一简称为苏联)*
-	* [20190206](#1.1)
-	* [Fortysoilder](#1.2)
-	* 
+	* [nenefox](/players/nenefox)
+	* [20190206](/players/20190206.md)
+	* [mc520](/players/mc520.md)
+	* [Aertio](/players/Aertio.md)
+	* [Lidrem](/players/Lidrem.md)
+	* [kkkqq](/players/kkkqq.md)
+	* [laosun](/players/laosun.md)
+- [国际都市](Guild.md)
+	* 草莓 *(资料缺失)*
+- [碧桂园](Guild.md)
+	* [mc520](/players.mc520.md)
+- [南港](Guild.md)
+- 
+
+
+>词条如有错误请向管理组汇报
